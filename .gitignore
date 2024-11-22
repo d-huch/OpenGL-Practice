@@ -1,0 +1,29 @@
+# CMake build directory
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# CLion specific files
+/.idea/
+/cmake-build-debug/
+/cmake-build-release/
+/cmake-build-relwithdebinfo/
+/cmake-build-minsizerel/
+
+# Compiled binary files
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
